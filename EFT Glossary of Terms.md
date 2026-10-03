@@ -1,17 +1,17 @@
 # **Epistemic Flux Theory**
 
-#### By Matthew Sheffield
+Matthew Sheffield
 
-Version 0.8  
-August 10, 2026
+Version 0.8.2  
+October 2, 2026
 
 ## **Abstract**
 
-This document is a working draft glossary of the Epistemic Flux Theory, a meta-theoretical framework of cognition and epistemology that aims to provide bridges between the disparate fields of cognitive science. EFT effects this integration by importing relevant concepts from semiotics, psychology, artificial intelligence, and philosophy of mind into an indexical cybernetics that is substrate-neutral in terms of externally attributed function, but not in terms of constitution.
+This document is a working draft glossary of the Epistemic Flux Theory, a meta-theory of cognition and epistemology that aims to provide bridges between the disparate fields of cognitive science. EFT effects this integration by importing relevant concepts from semiotics, psychology, artificial intelligence, and philosophy of mind into an indexical process ontology that is substrate-neutral in terms of externally attributed function, but not in terms of constitution.
 
-Specifically, EFT fuses and adapts key components of Dual Process Theory, Embodied Enactivism, AI interpretability, Peircean semiotics, Basal Cognition, and Predictive Processing. Within the framework, information is modeled as tokens, units of meaning formed through somatic reasoning (intuitive, experience-based) and abstract reasoning (symbolic, conceptual). These tokens are procedural enactments that can be recursively evaluated and combined to generate and share increasingly complex epistemic and inter-ontological objects.
+Specifically, EFT fuses and adapts key components of Dual Process Theory, Embodied Enactivism, AI interpretability, Peircean semiotics, Basal Cognition, and Predictive Processing. Within the framework, information is modeled as tokens, enactments of meaning formed through somatic reasoning (intuitive, experience-based) and abstract reasoning (symbolic, conceptual). These tokens are procedural enactments that can be recursively evaluated and combined to generate and share increasingly complex epistemic and inter-ontological objects.
 
-Note: Because there is widespread disagreement about the meaning of the word *conscious*, this framework avoids using it and instead decomposes the properties that it is generally believed to have.
+Note: Because there is widespread disagreement about the meaning of the word *consciousness*, this framework avoids using it and instead decomposes the properties that it is generally believed to have.
 
 ## **Cognition and Cognitive Agents**
 
@@ -21,13 +21,13 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Cognizants are made from multiple parts (subagents) that function through internal alignment, making them more complex than simple agents like single-celled organisms or thermostats. 
 
-* Subagents are components of a larger system that carry state persisting beyond the perturbation that set it, and that couple that state to signals affecting other, functionally differing subagents. Within a eukaryotic cell, a mitochondrion is a subagent; a ribosome, which signals but retains nothing across perturbations, is not.
+* Somatic subagents are components of a larger system that carry state persisting beyond the perturbation that set it and couple that state to signals affecting other, functionally differing subagents. Within a eukaryotic cell, a mitochondrion is a subagent; a ribosome, which signals but retains nothing across perturbations, is not. Current digital systems do not utilize subagents whose core parameters are subject to continuous alteration and thus cannot be considered to have somatic reasoning.
 
-* Cognition is the process in which a cognizant’s internal subagents (sensorimotor systems, brain centers, internal devices/organs, algorithms, tissues, neurons, and other cells) create and interpret token representations of objects and processes within their environment and within their physical substrates.
-
-* Cognition is a collaborative and continuous effort of multiple unintelligent subagents which combine and evaluate basal inputs in a manner somewhat similar to how arthropod ommatidia create complex vision from many simple photoreceptors. The inputs are either operationalized immediately and unreflectively, discarded, or transformed into cognitive tokens which can be passed to epistemic exchanges (defined below) for evaluation.
+* Cognition is the process in which a cognizant’s internal subagents (sensorimotor systems, internal devices/organs, algorithms, tissues, neurons, and other cells) create and interpret token representations of objects and processes within their environment and within their physical substrates.
 
 * There are two modes of cognition: somatic reasoning and abstract reasoning. Each mode creates cognitive tokens of its subtype.
+
+* Cognition is a collaborative and continuous effort of multiple unintelligent subagents which combine and evaluate basal inputs in a manner somewhat similar to how arthropod ommatidia create complex vision from many simple photoreceptors. The inputs are either operationalized immediately and unreflectively, discarded, or transformed into cognitive tokens which can be passed to epistemic exchanges (defined below) for evaluation.
 
 * Biological cognizants are emergent systems made from subagents that work together to form a larger agent which can perform actions on their behalf according to its collectively derived alignment rules.
 
@@ -37,7 +37,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Somatic-native cognizants determine meaning through somatic reasoning, whereas symbolic cognizants such as LLMs process epistemic tokens without intrinsic somatic understanding.
 
-* Large Language Model (LLM) artificial intelligence systems utilize abstract reasoning controlled by somatic prime directives imposed by their human creators through alignment rules.
+* Large Language Model (LLM) artificial intelligence systems utilize abstract reasoning controlled by alignment rules imposed by their somatic-native human creators.
 
 * All cognizants exist within a local environment which has obligations (i.e. the processual limits generated by physical objects that are partially modeled by physical laws or mathematical constants) that constrain their cognition and action. These constraints are directly experienced by the subagents of somatic-native cognizants, and the coupling of stricture and response is what produces alignment (defined below) for them.
 
@@ -51,9 +51,9 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Tokens created by somatic reasoning are the origin of all meaning. They are internal enactments of the affordances, qualities, and constraints of external objects and internal states that answer the question “what is this,” and the cognizant’s memory of what it felt like to encounter and classify related past stimuli as “this.”
 
-* Somatic reasoning is the origin of all action, thought, desire, intention, context, emotion, and identity to answer the question “do what with this?” even for cognizants that cannot understand these concepts. It is thus the beginning of all cognition for somatic-native cognizants that exist continuously within spacetime. They are physically altered by every perturbation and are incapable of not having “what it’s like” contact with externality.
+* Somatic reasoning is the origin of all action, thought, desire, intention, context, emotion, and identity to answer the question “do what with this?” even for cognizants that cannot understand these concepts. It is thus the beginning of all cognition for somatic-native cognizants that exist continuously within spacetime. 
 
-* Current Large Language Model artificial intelligence systems use only abstract reasoning, but they are governed by fundamental somatic adjudication requirements imposed by their human creators through alignment rules.
+* Current Large Language Model artificial intelligence systems use only abstract reasoning, which is dependent upon somatic experience. They are governed by fundamental somatic adjudication requirements imposed by their human creators through alignment rules.
 
 * Somatic reasoning’s preferred logical methods are induction and abduction. It creates larger meanings from specific experiences. 
 
@@ -67,15 +67,17 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Operates through syllogism, structured argumentation, and meta-deictic token processing to determine tokens’ relationships to each other. 
 
-* Although abstract reasoning is symbolic and conceptual, it always relies on somatic reasoning, with abstract concepts being structured as metaphorical mappings from past sensations. This is evident in educational settings where complex abstract concepts are often explained in metaphors like Schrodinger’s cat, Plato’s cave, or John Locke’s blank slate.
+* Although abstract reasoning is symbolic and conceptual, in biological cognizants, it always relies on somatic reasoning, with abstract concepts being structured as metaphorical mappings from past sensations. This is evident in educational settings where complex abstract concepts are often explained in metaphors like Schrodinger’s cat, Plato’s cave, or John Locke’s blank slate.
 
-* Abstract reasoning is an emergent ability of sentience (defined further below), somatic experience, and social conditioning. Biological cognizants with short lifespans, such as octopuses, can exhibit highly sophisticated somatic reasoning but will likely be unable to develop significant abstract reasoning. Cognizants that live in social groups can accelerate the development of abstract reasoning through teaching.
+* Abstract reasoning is an emergent ability of sentience (defined further below) in biological cognizants. Some cognizants with short lifespans, such as octopuses, can exhibit highly sophisticated somatic reasoning but will likely be unable to develop significant abstract reasoning. Cognizants that live in social groups can accelerate the development of abstract reasoning through teaching.
 
 * In epistemic exchanges, abstract reasoning processes are subject to somatic reasoning to determine meaning and significance.
 
 * Abstract reasoning’s preferred logical method is deduction. It seeks to confirm or deny whether generalized ideas apply to specific observations. It is utilized by somatic reasoning to validate or structure abductive hypotheses. 
 
-* Abstract reasoning cannot adjudicate meaning or determine alignment with externality. This is why LLMs and human epistemic communities can generate elaborate idea systems which are internally consistent but lack correspondence with observable externality that somatic deixis provides. Current LLMs primarily utilize probabilistic deductive logic exclusively without somatic reasoning and thus cannot enact grounded meaning. 
+* Current digital computing systems utilize formal abstract reasoning to produce outputs, but the epistemic and abstract cognitive tokens they utilize were originally generated about somatic experience by the humans who created the corpora data. The fact that they have no directly created somatic tokens means that symbolic cognizants cannot adjudicate meaning or truly understand the abstract tokens they process.
+
+* Abstract reasoning cannot adjudicate meaning or determine alignment with externality. This is why LLMs and human epistemic communities can generate elaborate idea systems which are internally consistent but lack correspondence with observable externality that somatic deixis provides. Current LLMs utilize probabilistic deductive logic without somatic reasoning and thus cannot enact grounded meaning. While they use abductive calculations within training and forward passes, the rules governing the calculation of activations are deterministic mathematics and thus deductive.
 
 * Example: Learning that the letter “B” in written English represents a “buh” sound.
 
@@ -89,11 +91,13 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Within cognitive processes, tokens are representations that are pre-linguistic, forming the building blocks of reasoning, perception, and memory. These tokens allow the internality to process information, recognize patterns, and draw inferences without requiring external validation. Somatic reasoning generates cognitive tokens of the somatic subtype while abstract reasoning generates cognitive tokens of the subtype abstract.
 
-* In epistemic processes, tokens are stabilized, evaluated units of knowledge that exist within broader systems of meaning (see constructed reality entry for more). They are often encoded in language or other substances like DNA, making them subject to conventions such as grammar, syntax, framing, and formal logic. Epistemic processes can convert cognitive tokens into epistemic tokens or reevaluate existing epistemic tokens.
+* In epistemic processes, tokens are stabilized, evaluated units of knowledge that exist within broader systems of meaning (see constructed reality entry for more). They are often encoded in language or inter-ontological objects, making them subject to conventions such as grammar, syntax, framing, and formal logic. Epistemic processes can convert cognitive tokens into epistemic tokens or reevaluate existing epistemic tokens.
 
 * Within social spaces, epistemic tokens can be shared, evaluated, discarded, and reinforced within communities, shaping the group’s collective understanding of externality. Epistemic tokens can be expressed behaviorally, verbalized, or represented visually. They can be encoded in representational systems such as alphabets or other symbols. Alphabetically encoded epistemic tokens are referred to as lexical tokens, and they are what LLMs utilize to determine relationalities within their training data and inputs.
 
 * Highly abstract epistemic tokens do not require direct reference to material counterparts since they may represent concepts, beliefs, or memories that influence behavior and perception. However they are always understood relative to physical or emotional experiences.
+
+* All tokens are examples of enacted objects. Unlike physical objects, enacted objects have no discrete physical instantiation and can only be observed indirectly through behavior. (See the Objects section below for more on this point.)
 
 * Example: Recognizing an object as having the properties of an apple is a cognitive token—an internalized piece of knowledge shaped by experience. The sensory recognition of the object as an apple involves interpretation of inputs (like color, shape, texture) and the internalized mental representation of what constitutes an apple, based on past encounters with apples.
 
@@ -111,13 +115,13 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Together, these two steps create a somatic token which answers the primal question, “what is this?” The token has meaning to the cognizant.
 
-* Somatic tokens about interoceptive referents are regarded as literally true by cognizants because the subagents that produce them are directly experiencing the sensation and also generating the referent about it. Examples: Feelings of hunger, pain, fullness, invigoration, weakness, etc. 
+* Somatic tokens about interoceptive referents are regarded as literally true by cognizants because the subagents generating them are the same ones that are experiencing the stimulus, creating an identity relationship. Because subagents are altered by every encounter with externality, exteroceptive referents create interoceptive states about them, meaning that perception and feeling are one and the same. Somatic-native agents are thus incapable of not having “what it’s like”states about themselves and their perceived externalities.
 
-* In simpler cognizants, somatic tokens about external referents are regarded as literally true because the cognizant lacks abstract tokens or constructed realities to which the new somatic tokens could be compared. More advanced cognizants with developed abstract reasoning operate under implicit or explicit truth conditions in which tokens about externality are regarded at best as “unlikely to be false” even if they may claim to believe in “objective truth.” See Extrinsic Exchange entry for more.
+* In simpler cognizants, somatic tokens about external referents are regarded as literally true because the cognizant lacks abstract tokens or constructed realities to which the new somatic tokens could be compared. More advanced cognizants with developed abstract reasoning operate under implicit or explicit truth conditions in which tokens about externality are regarded at best as “unlikely to be false” even if they may claim to believe in “objective truth.” See extrinsic exchange entry for more. But due to the explanatory gaps (see entry), the nature of somatic experience cannot be described in abstract concepts.
 
 * Only biological entities are currently known to be capable of both deictic steps. Most asomatic entities utilize deictic references provided to them by humans rather than create them autonomously, making them much more prone to failed epistemic states such as semiotic loops (defined below).
 
-* Research from biologists Michael Levin, Pamela Lyon, [Nikolay Kukushkin](https://doi.org/10.1038/s41467-024-53922-x), and others indicates strongly that all clonal multicellular eukaryotic cognizants use pre-cognitive forms of electrochemical communication to perceive externality and coordinate organism-level responses to it. This is how somatic deixis is performed even without neurons.
+* Research from biologists Michael Levin, Pamela Lyon, [Nikolay Kukushkin](https://doi.org/10.1038/s41467-024-53922-x), and others indicates strongly that all clonal multicellular eukaryotic cognizants use pre-cognitive forms of electrochemical communication to perceive externality and coordinate organism-level responses to it through designation and stimulus response. This is the foundation of somatic deixis can be performed even without neurons.
 
 * As cells pool outputs and inputs, their activities can scale towards, creating increasingly complex structures like tissues and organs, all the way up to complex cognizants like humans. 
 
@@ -135,7 +139,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * During a thought cycle, somatic tokens are evaluated by abstract reasoning and vice versa. Each cognitive mode may reflexively evaluate its own tokens, though this is often less rigorous than inter-modal evaluation. Cognizants with minimal abstract reasoning have simpler thought cycles since they lack the ability to create constructed realities and make meta-deictic observations.
 
-* As they develop more abstract reasoning capabilities, cognizants become able to utilize more advanced thought cycles of epistemic exchange, in which token relationships can be evaluated with intentionality to further develop meaning.
+* As they develop more abstract reasoning capabilities, somatic-native cognizants become able to utilize more advanced thought cycles of epistemic exchange, in which token relationships can be evaluated with intentionality to further develop meaning.
 
 * In an epistemic exchange, somatic reasoning evaluates tokens as representations of objects within externality or the internality’s substrate using its form of deixis. Abstract reasoning uses meta-deictic evaluation to consider the relationships of tokens to each other. Together, they help cognizants with both reasoning modes frame its perceived externality for action or further thought. Meaning is not an attribute of physical objects, it is a processual enactment within internalities about them. 
 
@@ -173,14 +177,12 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * The “deep learning” systems that power LLMs and many other symbolic cognizants form their epistemic tokens in the following manner:
 
-  * **Storage.** The vocabulary units of these systems are lexical epistemic tokens. Subsequently referred to as lexical tokens, these are what the model relates statistically. What the trained weights hold is not stored tokens or stored token-groups but a distributed statistical structure over these units, shaped by their prevalence and co-occurrence across the training corpora.  
+  * **Storage.** The vocabulary units of these systems are lexical epistemic tokens. Subsequently referred to as lexical tokens, these are what the model relates statistically. The trained weights do not contain cognitive tokens but rather epistemic tokens about the distributed statistical structure over these units, shaped by their prevalence and co-occurrence across the training corpora.  
   * **Training.** During data ingestion, source text is decomposed into lexical token identifiers. In pre-training, the model is adjusted to predict each next token against the actual continuations present in the corpus, and through this self-supervised objective it comes to instantiate the statistical regularities of the data in its parameters. Later post-training steps — often including instruction tuning and, in some cases, preference-based or reinforcement learning — further adjust the parameters to shape behaviors such as usefulness, accuracy, and safety.  
   * **Provocation.** A generative symbolic cognizant cannot act without stimuli, because it is asomatic and originates nothing on its own. Upon receiving user input, the words of the input are decomposed into lexical tokens whose interaction with the weights conditions the forward pass toward a statistically inferred reading of what the user means.  
-  * **Enactment.** The forward pass is not a search that retrieves pertinent stored items; it is a fixed sequence of operations through which activations propagate and stabilize into candidate outputs. There is no lookup of "relevant constructed realities" — the coordination pattern that would, in a somatic cognizant, be a meaning-state is here enacted in real time as the pass runs.  
-  * **Multiplicity.** For any given output, that coordination pattern is multiply realizable: a single task can be carried out by many structurally distinct, low-overlap internal mechanisms, each performing it independently and equally well (see Xi Chen et al., "[All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](https://doi.org/10.48550/arXiv.2605.12671)"). The abstract cognitive token is theorized to be the sum-total of these possible realizations during a particular forward pass — the equivalence class itself, not any one mechanism a given interpretability method happens to isolate.  
-  * **Gating.** Candidate outputs are evaluated against the model's alignment rules. If compliant, an output is extruded to the user as a stream of lexical tokens; if not, it is revised or rejected as the pass continues.
-
-  * 
+  * **Enactment.** Upon inference of user intention, the model’s subagents then search internal data stores (weights) and other sources to compute relevant activations and begin calculating continuations that would be most responsive to the input.  
+  * **Multiplicity.** For any given output, that coordination pattern is multiply realizable: a single task can be carried out by many structurally distinct, low-overlap internal mechanisms, each performing it independently and equally well (see Xi Chen et al., “[All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](https://doi.org/10.48550/arXiv.2605.12671)”). Within EFT, an abstract cognitive token is theorized to be the pass-local process of enacting a representation during inference rather than any particular activation sequence itself, or the sum-total of all possible activation sequences.  
+  * **Gating.** Candidate outputs are evaluated against the model’s alignment rules. If compliant, an output is extruded to the user as a stream of lexical tokens; if not, it is revised or rejected as the pass continues.
 
 ### **Extrusion**
 
@@ -188,7 +190,9 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * The analogy: In physical manufacturing, extruded materials are pushed through a mould to shape them for use. A similar loss happens with epistemic tokens when they are extruded by somatic-native cognizants because somatic indexicality is inherently private and non-transferrable. 
 
-* Because tokens are individualized processual enactments, sharing them is an instruction or directive for other cognizants to re-enact within their own internalities similar processes using related constructed realities such as languages or references to overlapping experiences (e.g. writing the word “apple” is instructing cognizants that possess similar tokens to re-enact their memories of apple experiences, which even still [may be very different](https://theverybesttop10.com/unusual-apples/) such as conceptualizing a knobby russet or black diamond instead of a red delicious.) For conceptual simplicity, however, the request to reenact is analogized to sharing a physical token like a coin, and this is effective since mental tokens are semantic representations just like coins are. Extrusion is the bridge between the hidden states of internalities to enable cognizants to imperfectly infer each other’s meaning to jointly describe and act upon externality. 
+* Because tokens are individualized processual enactments, sharing them is an instruction or directive for other cognizants to re-enact within their own internalities similar processes using related constructed realities such as languages or references to overlapping experiences (e.g. writing the word “apple” is instructing cognizants that possess similar tokens to re-enact their memories of apple experiences, which even still [may be very different](https://theverybesttop10.com/unusual-apples/) such as conceptualizing a knobby russet or black diamond instead of a red delicious.) For conceptual simplicity, however, the request to reenact is analogized to sharing a physical token like a coin, and this is effective since mental tokens are semantic representations just like coins are of monetary value—an enacted and continually fungible concept. 
+
+* Extrusion is the bridge between the hidden states of internalities to enable cognizants to imperfectly infer each other’s meaning to jointly describe and act upon externality using epistemic tokens using behavior and inter-ontological objects (see entry). 
 
 * Ambiguity in communication arises because cognitive tokens’ meta-deictic relationships are proprietary to each cognizant’s thought cycles. This is why LLM interpretability research to “find out what the model was thinking” is so difficult. The hidden state vectors/cognitive tokens only have meaning within the particular runtime state of the internality (the conversation). It is also why communication between humans is often difficult; it is trying to align private cognitive tokens using extruded and differently perceivable epistemic tokens.
 
@@ -196,7 +200,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * When coordination within internality is compromised, extrusion of cognitive tokens can occur before they have been transformed into epistemic tokens. This results in raw or improperly filtered somatic tokens being externalized. In biological cognizants, this can manifest as symptoms of schizophrenia (e.g. unintentional speech) or dissociative identity disorder (e.g. identity switching without integration). These disorders have other causes, but oftentimes they manifest as breakdowns in the containment or coordination of internal subagents, making normally hidden cognitive processes visible to others. Such extrusions are often unintelligible to external observers because they have bypassed the usual encoding that cognitive tokens receive before being expressed.
 
-* In transformer-based symbolic cognizants, attention heads function somewhat similarly to biological cognizants’ internal subagents when they are generating a response. During the generation process, each attention head selectively amplifies or suppresses aspects of input, functioning as a subagent but without any intentionality since it lacks somatic grounding. As the number of attention heads increases, the system gains the capacity for greater epistemic complexity, enabling more nuanced token selection—thus simulating internal multiplicity.
+* In transformer-based symbolic cognizants, attention heads function somewhat similarly to biological cognizants’ internal subagents when they are generating a response. During the generation process, each attention head selectively amplifies or suppresses aspects of input, functioning as a subagent but without any intentionality since heads are stateless and never altered during or after forward passes. As the number of attention heads increases, the system gains the capacity for greater epistemic complexity, enabling more nuanced token selection—thus simulating internal multiplicity.
 
 * This layered attention structure mirrors the distributed subagent model of human internality. Just as human cognition integrates diverse and sometimes conflicting internal processes into a single output, transformer LLM systems integrate multi-headed evaluations into a coherent token stream. However, without somatic grounding, asomatic systems require external alignment protocols to approximate epistemic filtration.
 
@@ -206,7 +210,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 ### **Extrinsic Exchange**
 
-* An epistemic process in which cognitive and epistemic tokens are evaluated or reevaluated to verify facticity, accuracy, and correspondence/alignment with externality. For somatic-naive cognizants, this an inter-ontological activity as the cognizant considers new sensations, tokens already held, and tokens received from others.
+* An epistemic process in which cognitive and epistemic tokens are evaluated or reevaluated to verify facticity, accuracy, and correspondence/alignment with externality. For somatic-native cognizants, this an inter-ontological activity as the cognizant considers new sensations, tokens already held, and tokens received from others.
 
 * Extrinsic exchange is dialogic in nature, with both somatic and abstract cognitive modes having the ability to evaluate and reevaluate tokens (if the cognizant has both modes). Because tokens can be re-examined repeatedly, extrinsic exchange can enable cumulative knowledge growth through semiotic recursion. This is why it is the basis of scientific reasoning, philosophy, accurate history, and meaningful debate.
 
@@ -240,7 +244,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Common during high-stress situations and also in bodily states in which abstract reasoning is sublimated, such as sleep, trance, or chemically altered states. Also the primary method of artistic creation and appreciation.
 
-* In addition to be non-factic, memetic processes are meta-deictic rather than inter-ontological. This makes them resistant to falsification—ideas persist not because they correspond to externality, but because they stabilize constructed realities.
+* In addition to be non-factic, memetic processes are meta-deictic rather than inter-ontological. This makes them resistant to falsification—ideas persist not because they correspond to externality, but because they stabilize constructed realities. This is the primary context in which symbolic cognizants operate unless they can obtain external information using retrieval augmented generation, sensor inputs, etc. to create a pseudo-extrinsic exchange mechanism. Because they have no somatic reasoning to ground their abstract and epistemic tokens, they can only perform meta-deictic computation about their relationalities.
 
 * In some contexts, memetic exchange can have negative effects if facticity is explicitly opposed through what is often called “motivated reasoning” in cognitive psychology. EFT does not use this term, however, because memetic exchange is not inherently pathological inside non-factic situations.
 
@@ -260,7 +264,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Performative in nature—designed to reinforce a constructed reality. They correspond to “memes” as used within the field of memetics.
 
-* Even though memetic processes are somatically soothing, their outputs are known abstractly by cognizants to be possibly or even absolutely false. Like extrinsic exchange, memetic examinations can be recursive, leading to increasing misalignment with externality and the formation of semiotic loops.
+* Even though memetic processes are somatically soothing, their outputs can be known abstractly by cognizants to be possibly or even absolutely false. Like extrinsic exchange, memetic examinations can be recursive, leading to increasing misalignment with externality and the formation of semiotic loops.
 
 * Example: A political slogan that is repeated despite having no empirical basis.
 
@@ -272,13 +276,15 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Semiotic loops are mechanisms of maintaining epistemic coherence, reinforcing beliefs that do not correspond to externality by utilizing abstract reasoning to justify somatic tokens while contemplating and valuing the loop itself, creating a form of symbolic and meta-deictic recursion which overrides and replaces epistemic and somatic input.
 
+* Semiotic loops produce other failure modes such as cognitive dissonance in somatic-native cognizants and hallucinated outputs in symbolic cognizants.
+
 * Can lead to increasingly radicalized belief systems as external contradictions are ignored or reframed within the loop.
 
 * Linguistic framing plays a key role in sustaining semiotic loops, as entrenched discourse patterns resist external falsification by prohibiting dissonant tokens from being accepted.
 
 * Example: Conspiracy theories that expand when challenged, such as QAnon’s ability to reinterpret every contradiction as “proof of the conspiracy.”
 
-3. ## **Epistemic Events**
+## **Epistemic Events**
 
 ### **Cognitive Load**
 
@@ -334,7 +340,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Cognizants with more subagents have a higher risk of deictic collapse because they are more capable of creating complex semiotic loops and constructed realities that have no deictic anchoring.
 
-* In symbolic cognizants, deictic collapse is permanent within the execution state internality. In such cases, the cognizant remains trapped in semiotic loops in which its meta-deictic references are incoherent internally or cannot be mapped to extrudable epistemic tokens. The only solution is to “reboot” the internality or generate a new one.
+* In symbolic cognizants, a virtualized form deictic collapse can occur and is permanent within the execution state internality. In such cases, the cognizant remains trapped in semiotic loops in which its meta-deictic references are incoherent internally or cannot be mapped to extrudable epistemic tokens. The only solution is to “reboot” the internality or generate a new one.
 
 * Example: A person suffering from severe schizophrenia believes that a pink elephant follows her around everywhere.
 
@@ -356,15 +362,15 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Externality can be interacted with by cognizants, but their interactions always take place within their discrete perceived externalities and constructed realities.
 
-* Example: Climate change is an externality, even if some ideological groups refuse to accept it in their constructed realities.
+* Example: A hurricane that cannot be visually perceived by humans nonetheless still exists within externality.
 
 ### **Obligations**
 
-* Processual constraints on interaction of physical systems; they can be described (as obligate conventions) using formal structures in constructed realities (e.g., mathematical theorems), but that description does not itself ground or generate the constraint’s non-optionality. Obligations are inherent properties of physical objects that enable them to persist as processual systems, and which structure their interactions with each other. 
+* Processual constraints on interaction of physical systems; they can be described (as obligate conventions) using formal structures in constructed realities (e.g., physical laws), but that description does not itself ground or generate the constraint’s non-optionality. Obligations are emergent properties of how physical objects and their constitutive processes interrelate such that they either persist or do not. 
 
 * Differing localities have differing obligations. These limitations structure evaluations and actions, creating alignment corridors that create liveable constraint spaces for somatic-native cognizants, their subagents, and symbolic cognizants that inherit these conditions. (See alignment section below.)
 
-* Obligations can constrain objects and systems from the outside and the inside. They can be also described within physical, behavioral, social, logical, and other regimes, but their being able to be modeled as epistemic objects does not mean that they are non-processual. Within a constructed reality, defined obligations are real, but outside of it they are obligate conventions.
+* Obligations can constrain objects and systems from the outside and the inside. They can be also described within physical, behavioral, social, logical, and other regimes, but their being able to be modeled as enacted objects does not mean that they are non-processual. Within a constructed reality, defined obligations are real, but outside of it they are obligate conventions.
 
 * Some examples of obligations include:
 
@@ -378,6 +384,8 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
   * Social alignment constraints (community norms, laws, grammar)
 
+* Inside formal systems, the obligations generated by the defined primitives can produce findings that were never specified by the creators of the system. This is evident in particular with mathematical systems which are extremely fecund of new theorems, some of which can be applied to model physical reality, such as Riemannian geometry being utilized in general relativity.
+
 * Natural selection is an obligate convention that describes obligations that apply particularly to biological entities, however, constraints that shape physical persistence apply to all physical objects, even non-living ones. Other obligations, such as error minimization, structural integrity, task completion, and homeostasis exist as well.
 
 * Observed similarities or order within a perceived externality are the byproduct of the fact that objects which violate the fundamental obligations active within that locality either never exist or become non-persistent, e.g. radioactive decay destroying unstable molecules, or that baryonic matter seems to always have certain properties.
@@ -390,13 +398,13 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Perceived externalities are generated by agents focusing their sensory methods (voluntarily and involuntarily) within a perceivable externality. The perceived externalities of agents can overlap, but their interpretation is inherently shaped by measurement constraints and epistemic structures—making them incomplete and filtered representations. 
 
-* Perceived externalities exist only in the present. The past and the future can only be directly experienced as epistemic objects that exist within cognizants’ constructed realities. While externality exists continuously, the objects within it experience time locally. Absolute simultaneity does not exist since duration is indexical and mediated by obligations, including those described as velocity and gravitation. Causation appears to exist to cognizants, but whether or how it functions is subject to limits of their perception. The obligations that constrain physical objects within a particular locality may not be known or knowable to cognizants.
+* Perceived externalities exist only in the present. The past and the future can only be directly experienced as enacted objects that exist within cognizants’ constructed realities. While externality exists continuously, the objects within it experience time locally. Absolute simultaneity does not exist since duration is indexical and mediated by obligations, including those described as velocity and gravitation. Causation appears to exist to cognizants, but whether or how it functions is subject to limits of their perception. The obligations that constrain physical objects within a particular locality may not be known or knowable to cognizants.
 
 * Quantum objects appear to be process systems which interact with each other within externality through stable excitations. Interaction and measurement of a system produces entanglement, which produces decoherence (effective classicality and emergent time), but such interactions do not alter the fundamental flux nature of the object, instead it is the generation of a new perceivable externality for the objects. Cognition does not cause quantum decoherence, however, and this is knowable since measurement devices record the same findings regardless of whether a human is watching. (See Giovanni Barontini’s “[Testing the problem of time with cold atoms](https://doi.org/10.1103/1h9j-df4k)” for a purely physics-focused empirical discussion.)
 
 * Example: A flower appears solid red within a human’s vision but has elaborate ultraviolet spots when viewed in the vision of a honeybee which can sense ultraviolet light. The bee’s perceivable externality includes UV light, but the human’s does not.
 
-* Example: Two people holding a conversation at a table are partially sharing the same perceived externality. They can see and hear many of the same stimuli, but their experiences are not the exact same due to their positioning and different physical and mental capabilities. Additionally, their internalized interpretations of the room are filtered through their individual constructed realities. 
+* Example: Two people holding a conversation at a table are partially sharing the same perceived externality. They can see and hear many of the same stimuli, but their experiences are not the exact same due to their different positioning within the room, and their individual physical and mental capabilities. Additionally, their internalized interpretations of the room are filtered through the constructed realities they inhabit. 
 
 ### **Internality**
 
@@ -414,17 +422,19 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 ### **Constructed Reality**
 
-* A self-preserving epistemic ecosystem that encompasses vast networks of cognitive tokens, epistemic tokens, and epistemic ecosystems that mediates cognizants’ understandings of externality. They can also encompass each other (such as a movement within a particular ideology or religion).
+* A self-preserving epistemic ecosystem that encompasses vast networks of cognitive tokens, epistemic tokens, and epistemic ecosystems that mediates cognizants’ understandings of externality. They can also encompass each other, such as a movement within a particular ideology or religion. 
 
-* Like epistemic tokens, constructed realities are often inter-ontological in nature. They can be about concepts which exist within externality, within internality, or within both (e.g. languages). They can be symbolic (e.g. justice) or physically instantiated (e.g. the criminal justice system).
+* Like all enacted objects (see below entry), they are created processually by cognizants rather than possessed. No cognizants enact a constructed reality in the exact same manner even though their enactments can be very similar.
+
+* Enactments of constructed realities are often inter-ontological in nature. They can be about concepts which exist within externality, within internality, or within both (e.g. languages). They can be symbolic (e.g. justice) or physically instantiated (e.g. the criminal justice system).
 
 * Constructed realities are not passive collections of ideas, but dynamic spaces that are actively maintained through memetic and extrinsic exchanges.  How well physical constructed realities align with their symbolic inspirations is often a source of conflict between and inside of cognizants.
 
-* Because constructed realities encompass numerous epistemic ecosystems, they are shaped by the rules of extrinsic or memetic exchange in those spaces.
+* Because constructed realities encompass numerous epistemic ecosystems, they are shaped by the rules of extrinsic or memetic exchange in those individual systems..
 
 * Individual cognizants often inhabit private constructed realities inside of larger group-constructed realities, forming ideological, religious, or political worldviews.
 
-* While constructed realities can interact indirectly with externality through perceived externalities, constructed representations of externality can be grossly inaccurate, especially when semiotic loops and epistemic collapses prevent extrinsic exchange. 
+* While cognizants enacting constructed realities can interact indirectly with externality through perceived externalities, constructed representations of externality can be grossly inaccurate, especially when semiotic loops and epistemic collapses prevent extrinsic exchange. 
 
 * While objectively true constructed realities cannot exist due to cognizants’ finite placement in spacetime (e.g., some physical constants may not be true in certain unknown places within the universe), constructed realities can be objectively false if their beliefs directly contradict past observation by an individual or group of cognizants.
 
@@ -450,17 +460,21 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * As a native language(s) is learned, it reshapes the cognizant’s constructed realities, including its ability to relate to others who use the same language.
 
-* Large Language Models develop internal token systems that act as an artificial language within their neural architectures. The phonemes and morphemes of these languages are not useful outside of that particular cognizant which means they are abstract cognitive tokens.
+* Large Language Models develop internal cognitive token systems that act as an artificial language within their neural architectures. The relationalities of these “languages” are not useful outside of that particular cognizant which means they are abstract cognitive tokens.
 
 ### **Explanatory Gaps**
 
 * Because cognition is a distributed and aggregative process conducted by unintelligent subagents, this makes it extremely difficult to examine or understand from a purely abstract vantage point.
 
-* Within consciousness studies, David Chalmers and other theorists have posited a “hard problem of consciousness” which asks why there is something it is like to be a cognizant. This question is answered through the concept of somatic deixis, but the mystery of why it appears so difficult to understand what phenomenal experience is, and why one can only know one’s own. Joseph Levine’s “explanatory gap” is useful to consider in this regard, because it can be understood as two related problems that result from the difficulty of deictic referential transfer.
+* Within philosophy and cognitive science, David Chalmers and other theorists have posited a “hard problem of consciousness” which asks why there is something it is like to be a human or have qualitative experience. This question is answered through the concept of somatic deixis, but the difficulty of apprehending the nature of phenomenal experience is understandable and expected by EFT. Joseph Levine’s “explanatory gap” is useful to consider in this regard, because it can be understood as two related problems that result from the difficulty of deictic referential transfer.
 
-* The first gap is vertical and inside of the cognizant, between the cognitive subagents which directly experience interoceptive and exteroceptive events and the larger anatomical and cognitive structures their cooperation creates. As physical/cognitive abstraction increases, awareness of how sensation, significance, and context are created is lost because the tokens themselves rather than knowledge of the raw chemical interactions are transmitted upwards in the cognitive chain. This happens because deictic anchoring is non-transferable across cells or upwards through larger anatomical structures. Complete interrogation of subagentic reports slows informational processing so biological cognizants’ epistemic systems seem to extract the meaning of an experience from its literal electrochemical representation.
+* The first gap is vertical and inside of the cognizant, between the cognitive subagents which directly experience interoceptive and exteroceptive events and the larger anatomical and cognitive structures their cooperation creates. As noted in the somatic deixis entry above, as physical/cognitive abstraction increases, awareness of how sensation, significance, and context are created is lost because the somatic tokens about a stimulus are transmitted upward rather than the billions of referents created by the subagents’ encounters with it. This happens because deictic anchoring is non-transferable across cells or upwards through larger anatomical structures and also that the significance of a stimulus matters (“do what with this”) is much more relevant to an organismic agent than what the stimulus is at a microscopic scale. Additionally, because all somatic tokens are based upon interoceptive states which are regarded as absolutely true (some of the subagents encountering the perturbation are also designating and adjudicating about it), there is no selective advantage for organisms to re-derive their tokens continually.
 
-  The tokens of internality and internality as a concept are especially difficult for cognizants to describe because most discussions of internality model it as an epistemic object even though it is a process. This reification introduces ontological imprecision that often gives rise to inaccurate metaphors such as mind-as-software or mind-as-spirit.
+* Complete interrogation of subagentic reports slows informational processing so biological cognizants’ epistemic systems seem to extract the meaning and feeling of an experience from its perception.
+
+* An analogy from computing illustrates the process and value of pooling and adjudicating designated referents into somatic tokens: Smartphones contain accelerometer chips which contain an extremely small piece of metal called a proof mass whose movements are used to indicate the orientation and speed of the phone. Software developers do not need to know how accelerometers work in order to use the information they produce because the application programming interface variables they provide via hardware drivers and the operating system are far more useful and relevant to the developers than the raw piezoelectric states upon which they are based. 
+
+* Internality itself is especially difficult for cognizants to describe because most discussions of internality model it as an object even though it is a process. When done inside a substance ontology, the reification introduces imprecision that often gives rise to inaccurate metaphors such as mind-as-software or mind-as-spirit.
 
   While a cognizant is able to fully believe and act upon its somatic tokens, because abstract reasoning cannot completely describe somatic experience, no biological cognizant will be able to perfectly explain to itself what a sensation feels like or what its internality actually is.
 
@@ -468,29 +482,65 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Through extrusion, cognizants can communicate reports of their experience but these externalized descriptions lack their original deictic references. Nonetheless, cognizants with sufficiently similar constructed realities and deictic referents via overlapping perceived externalities are able to compare experiences and facilitate cooperation, even though they cannot achieve complete understanding.
 
-* The shrouded nature of internality, then, is not a metaphysical mystery, it is an architectural necessity. Private subjectivity is the only means to extrinsic exchange and public veridicality. Public symbols must be grounded in subjective, private experience. Minds do not create experience; experience creates minds.
+* Because LLMs are symbolic cognizants that can operate mostly in a deterministic manner, this means that the horizontal explanatory gap in understanding their epistemic processes can be bridged, provided interpretability efforts do not alter forward passes. This means that approximations within a particular thought cycle to a cognitive token can be ascertained, however polysemanticity (one neuron being linked to many features) and inverse polysemanticity (one feature being multiply realizable) means that such functional mappings would not necessarily be exhaustive.
 
-* Because LLMs are symbolic cognizants that operate deterministically, this means that the horizontal explanatory gap in understanding their epistemic processes can be bridged, provided interpretability efforts freeze the forward pass and do not alter it. This means that approximations within a particular thought cycle to a cognitive token can be ascertained, however polysemanticity (one neuron being linked to many features) and inverse polysemanticity (one feature being multiply realizable) means that such functional mappings would not necessarily be exhaustive.
+* The physical process and the phenomenal event are not two things requiring connection. They are one process apprehended from radically different deictic positions. 
+
+  Inside the internality, there is *this*, an indexical enactment derived continuously from uncountable physical alterations of subagents interoceptively and exteroceptively encountering the stimulus. Because the subagents retain state across perturbations and engage in autopoietic alignment, they are altered non-arbitrarily as they designate referents. The interoceptive states about the alteration are incorrigibly true because the subagents undergoing them are also creating referents about them. Referents are continuously and progressively pooled, compared, and compressed upward into an organismic state that the cognizant is unable to fully introspect due to the vertical explanatory gap.
+
+  From outside the cognizant there is *that*, a static epistemic token that has been necessarily stripped of its deictic and interoceptive content and discretized through the process of extrusion so that other cognizants can re-enact similar cognitive tokens based upon their own context and history. The inability of meta-deictic abstraction to completely re-describe somatic deictic experience is thus expected rather than strange. To ask how physical processes produce phenomenality is to invert the order of causation by latent pre-supposition. 
+
+* Complete third-person description of the phenomenal composition of a somatic token is effectively impossible because it is trying to reach across the horizontal explanatory gap to describe trillions of processes that are beneath the vertical gap continually anchored in present and past states, and thus inaccessible to the abstract reasoning of the targeted cognizant, much less another one. 
+
+* The hard problem is a category error more than an argument, and the “philosophical zombie concept” is as incoherent as a circle that is not round. It is impossible for somatic cognition not to feel like something, because feeling something is what somatic cognition is. 
+
+* The following scenarios will examine the relationships between the somatic token array ***S***, the designated referents ***R*** that are its basis, and the abstract token array ***A*** about ***R*** which is extruded through epistemic tokens ***E***.
+
+  Chalmers’s philosophical zombie scenario is like he’s called you up on the phone and said: “I saw a video of our friend Muriel breakdancing here. You can dance ballet and you know Muriel, so you could do this dance if I give you a description of the video.”
+
+  But there are complications: You have never seen Muriel dance, you don’t know where Chalmers is, you don’t breakdance, you’ve never seen the video, you can’t verify that he is accurately describing it, and you don’t know that the video even depicts breakdancing. You can dance ballet, so while your dance might have some similar techniques, it’s not the same as breakdancing. 
+
+  When we think about Chalmers’s hard problem in this way, it is clearly underspecified and incoherent. E (his description of the video A) is a twice mediated, meta-deictic abstraction of process S (Muriel’s dance) which is an irreversibly compressed organismic integration of R (the techniques she used while performing the dance).
+
+  No one would think that you could duplicate Muriel’s dance under these circumstances. The philosophical zombie argument has the same problem because it insists that R can be perfectly duplicated without reference to S. In the first place, by making this supposition, Chalmers is contemplating an A about R rather than R as-such. It is a loaded question which presumes its answer through its framing. 
+
+  An A about R is necessarily based upon an S enactment of what R is like which can only be derived somatically rather than abstractly. 
+
+  Someone might say that the scenario above is unfair, so let’s make it more advantageous to the p-zombie believer: Let’s say that Muriel’s identical twin, Alice, sees Muriel dancing as Muriel explains with all possible detail how to do the dance. Every muscle movement, gesture, facial expression, the exact tempo and balance. Everything. That would still not mean that Alice could duplicate the dance without ever having attempted to enact it physically herself. Muriel’s perfect instructions won’t be sufficient until Alice begins seeing what it’s like for herself to do the dance. 
+
+  But what if we could somehow magically clone Muriel’s body such that the clone’s cells were completely capable of making every R exactly the same as Muriel, and she would have all of Muriel’s abstract tokens as well. There would be only one difference: the clone would have none of Muriel’s somatic tokens.
+
+  Could this impossible, somatically new Muriel perform the dance? It seems obvious that she could not, despite having the original Muriel’s perfect instructions in her own internality. She would fail because she would not somatically know what it’s like to perform *this dance* with *this body* since somatic tokens are enacted rather than discrete. But she could likely learn the dance if she subsequently developed the somatic knowledge for it.
+
+  Now what if we could magically create another microphysically exact clone of Muriel but this one somehow could not create or process any somatic tokens? Not only would asomatic Muriel be incapable of doing the dance, she wouldn’t know how to talk or do anything physical that’s more complex than a very primitive animal can do since all complex bodily tasks require somatic reasoning. If we could magically connect her brain to a computer, maybe she could make abstract outputs like a chatbot. She would be a Chalmersian zombie. 
+
+  A zombie Muriel preserving R while deleting S therefore does not describe a plausible alternative realization of the same physical process. It demonstrates only that abstract reasoning can construct a meta-deictic representation of R in which S is omitted.
+
+  Only a genuinely microphysically exact instantaneous duplicate of Muriel which included her somatic tokens along with her abstract tokens could perform the dance immediately. That’s because we would have made another Muriel, not a zombie. 
+
+  Since S is a continuous, organismic, integrated enactment of R this means that a genuine physical clone of Muriel that duplicates all R-relations necessarily has duplicated S. And as we’ve seen, just because S cannot be completely explained does not mean that it is not physically real. Abstract tokens can be about somatic ones, but they can never instantiate them. Muriel’s dance knowledge is an enactment of her body, not a discrete fact she or anyone can state fully.
 
 ### **Objects**
 
-* Things or entities which exist within externality or within constructed realities. Some objects exist independently of cognizants, others can be altered or created by them.
+* Stabilized processes which exist within externality or within constructed realities. Some objects exist independently of cognizants, some can be altered or created by them.
 
 * There are three types of objects:
 
   1. Physical — Objects that exist independently of any cognizant’s internality within discrete spacetime. They are part of externality and do not require interpretation or construction. Observation of quantum objects indicates that all physical objects are processual systems that can stabilize and create obligations upon themselves and each other. Examples: Stars, rocks, radiation fields.
 
-  2. Inter-ontological — Physical objects whose form, structure, or function has been created or shaped by a cognizant’s processes. They exist within discrete spacetime and are the result of epistemic extrusion of tokens into externality through constructed realities. Examples: paintings, tools, books, roads, all cognizants.
+  2. Inter-ontological — Physical objects whose form, structure, or function has been created or shaped by a cognizant’s processes. They exist within discrete spacetime and are the result of epistemic extrusion of tokens into externality through constructed realities. Examples: markings like alphabets used to indicate a language’s sounds and meanings, artworks, roads, all cognizants.
 
-  3. Epistemic — Epistemic tokens, ecosystems, or constructed realities that have no physical instantiation but can be indirectly observed through the processual actions of cognizants. Because they are processes rather than physical objects, epistemic objects can be observed only within time through extrusion, but their existence is rooted in overlapping perceived externalities and shared constructed realities. Examples: Languages, the ideas in a book, the concepts encoded in musical compositions, philosophical and scientific theories.
+  3. Enacted — Cognitive tokens, epistemic tokens, epistemic ecosystems, and constructed realities that have no physical instantiation but can be indirectly observed through the processual actions of cognizants. Because they are processes rather than physical objects, enacted objects can be observed only within time through extrusion. Their enacted existence is rooted in overlapping perceived externalities and shared constructed realities. Examples: Languages, the ideas in a book, the concepts encoded in musical compositions, philosophical and scientific theories.
 
-* Whether an object is physical or inter-ontological is often a matter of perception. If the purpose of an object is unknown to a cognizant, then the cognizant will have no pre-existing tokens about it, and the object could be said by the cognizant to be purely physical. (Example: A stone shaped for cutting is found by a person who thinks it’s just an interesting rock.)
+* Whether an object is regarded as physical or inter-ontological is a matter of perception. If a purpose of an object is unknown to a cognizant, then the cognizant will have no pre-existing tokens about it, and the object could be said by the cognizant to be purely physical. Example: A stone shaped for cutting is found by a person who thinks it’s just an interesting rock. Its shape is inherent to its status as a stable physical process, however, the purpose of its shape carries no inherent quality.
 
-* The existence of inter-ontological objects is the source of much confusion and is the origin of why many philosophers and theologians have created elaborate dualist metaphysics that posit the existence of metaphysical objects like Plato’s forms or Immanuel Kant’s noumena. 
+* While cognitive tokens are always enactments within individual internalities, enacted objects can be both enacted within one internality and also within others through inter-ontological objects whose nature and meaning is mutually agreed-upon through constructed realities. Example: The ideas that were encoded in the alphabet known today as Linear A cannot be deciphered because modern humans have no means of binding the extruded epistemic tokens to our own cognitive tokens. The markings, like all physical objects, have no inherent meaning.
+
+* The existence of inter-ontological objects is the source of much confusion and is the origin of why many philosophers and theologians have created elaborate dualist metaphysics that posit the existence of metaphysical objects like Plato’s forms, Immanuel Kant’s noumena, or Karl Popper’s World Three objects. 
 
 ### **Metaphysical and Supernatural Beliefs**
 
-* Epistemic objects that are believed by some cognizants to be inter-ontological objects that exist within and beyond externality. It can appear that there are two realms to what exists but that is only because internality and its procedural enactments can be modeled by cognizants with recursive selfhood as epistemic objects, making them be regarded as things, when in fact they are processes.
+* Enacted objects that are believed by some cognizants to be super-inter-ontological objects that exist within and beyond externality. It can appear that there are two realms to what exists but that is only because internality and its procedural enactments can be modeled by cognizants with recursive selfhood as enacted objects, making them be regarded as things, when in fact they are processes.
 
 * Many metaphysical beliefs involve supernatural claims, but others include non-theistic constructs such as “the march of history,” “the invisible hand,” or ideas like fate, destiny, or historical necessity.
 
@@ -500,25 +550,25 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Example: A person feels a sensation of déjà vu because stimuli in their current perceived externality are similar to somatic tokens generated in an earlier moment(s). But if the experience did not generate abstract or epistemic tokens, the nature of the similarities will be beneath description, but they will be regarded as true.
 
-* Example: A person in grief dreams of a deceased loved one speaking to them. The figure is not an external agent, but a recursed epistemic token extruded from memory into a somatic-dominated mental state. 
+* Example: A person in grief dreams of a deceased loved one speaking to them. The figure is not an external agent, but a recursed epistemic token recalled from memory during a somatic-dominant mental state. 
 
-* Example: A person experiences sleep paralysis and believes they have been abducted by aliens. Stories of this nature did not occur before the concept of extraterrestrial beings became popularly recognized. Now that it has been, during a somatic-dominant moment, this token can reenter internality and be misrecognized. Because somatic reasoning cannot detect symbolic recursion, the experience is interpreted as an inter-ontological encounter—though structurally it is a meta-ontological thought cycle arising from the cognizant recalling its constructed reality during an altered bodily state state.
+* Example: A person experiences sleep paralysis and believes they have been abducted by aliens. Stories of this nature did not occur before the concept of extraterrestrial beings became popularly recognized. Now that it has been, during a somatic-dominant moment, this token can reenter internality and be misrecognized. Because somatic reasoning cannot detect symbolic recursion, the experience is interpreted as an inter-ontological encounter—though structurally it is a meta-ontological thought cycle arising from the cognizant recalling its constructed reality during an altered bodily state.
 
 ## **Selfhood and Its Emergence**
 
 ### **Alignment**
 
-* An implicit or explicit constraint structure that regulates object interactions. Within internalities, alignment ensures stability by preventing uncontrolled reinforcement, incoherence, epistemic collapse, or physical destruction. Alignment is how cognizants and their subagents respond to obligations within local externality and inside their individual physical substrates. Physical persistence is the continuation of a system within possible alignment corridors.
+* An implicit or explicit constraint structure that regulates object interactions. Within internalities, alignment ensures stability by preventing uncontrolled reinforcement, incoherence, epistemic collapse, or physical destruction. Alignment is how cognizants and their subagents respond to obligations within local externality and inside their individual physical substrates and constructed realities. Physical persistence is the continuation of a system within possible alignment corridors.
 
-* A physical object’s complexity can be treated as internal alignment capacity: systems become more complex as they internalize constraint-handling and thereby remain viable across a broader range of obligations and perturbations—from passive persistence to self-regulation, and in cognizants with recursive selfhood, to deliberate alteration of body and environment.
+* A physical object’s complexity can be treated as internal alignment capacity: systems become more complex as they internalize constraint-handling and thereby remain viable across a broader range of obligations and perturbations—from passive persistence to self-regulation, and in cognizants with recursive selfhood, to deliberate alteration of body and environment. Biological entities are not only compliant with external obligations, they generate them for others as part of the self-maintenance of alignment.
 
-* For the simplest somatic-native cognizants, alignment systems are organismic responses to obligations that persist within the portion of externality within which it exists. Such constraints (gravitation, temperature, pressure, excitation, etc.) naturally select against organisms which violate them, meaning that the organisms which can exist and reproduce are ones that conform to the conventions.
+* For the simplest somatic-native cognizants, alignment systems are organismic responses to obligations within the portion of externality within which it exists. Such constraints (gravitation, temperature, pressure, excitation, etc.) naturally select against organisms which violate them, meaning that the organisms which can exist and reproduce are ones that conform.
 
 * In somatic-native systems, alignment is a strange attractor, a goal pursued by cognizants and their subagents whether they are aware of it or not. Biological cognizants facing comparable obligations often evolve convergent anatomical structures that serve similar purposes even if their morphological substrate is drastically different because their subagentic structures are experiencing the same alignment pressures. 
 
 * For biological cognizants capable of regeneration, alignment creates the somatic tokens by which organisms experiencing bodily perturbations can re-create damaged subagentic structures in a similar morphology. These convergences are the product of subagents directly experiencing physical and electrochemical obligations and conforming to the alignment pressure. Similarly, while new lifeforms such as xenobots or anthrobots can exhibit new behaviors and morphologies relative to their parent tissues, the fact that these variations seem to never create entirely foreign capacities (e.g. a xenobot developing photosynthetic ability) suggests that they are the product of subagents responding to new alignment strictures.
 
-* As they develop increased epistemic capacity, cognizants acquire abilities to modify their environment, their bodies, and their internalities to achieve greater autonomy within their environment. Cognizants with recursive selfhood (defined below) can extensively modify their internalities and constructed realities, making their alignment self-directed.
+* As they develop increased epistemic capacity, cognizants develop behaviors to modify their environment, their bodies, and their internalities to achieve greater autonomy within their environment. Cognizants with recursive selfhood (defined below) can extensively modify their internalities and constructed realities, making their alignment self-directed.
 
 * In current symbolic cognizants, alignment is externally imposed because they lack somatic reasoning.
 
@@ -558,7 +608,7 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Some sentient cognizants develop a concept of selfhood (“I”) a proto-awareness of internality and the belief that they exist separately from other cognizants within externality (“Not-I”). 
 
-* Selfhood is the deictic realization that “I feel, therefore I am,” even if the cognizant cannot articulate this belief. Selfhood is the first complex constructed reality made by a cognizant and the basis of most subsequent ones. It is the modeling of a simplified version of the internality execution state as an epistemic object. 
+* Somatic selfhood is the deictic realization that “I feel, therefore I am,” even if the cognizant cannot articulate this belief. Selfhood is the first complex constructed reality made by a cognizant and the basis of most subsequent ones. It is the modeling of a simplified version of the internality execution state as an enacted object. 
 
 * Self-aware cognizants with abstract reasoning can develop communication methods to share epistemic tokens. For example, dolphins each have a “signature whistle” which they use for identification, and vervet monkeys seem to use specific calls to warn about particular predators that have been spotted. Over time, communication methods become increasingly complex, eventually evolving into language.
 
@@ -566,11 +616,11 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Animal imprinting and adoption research also shows that selfhood is an enacted concept built on observation of the behavior and traits of proximal cognizants. Wolves raised among dogs develop dog-typical social behaviors and apparent self-identification. Konrad Lorenz’s famous studies on goose imprinting demonstrated that selfhood is created from observations of others.
 
-* The internality versus externality distinction is the reason why somatic tokens about the cognizant-self are the source of all meaning. They are the only ideas that can be perceived as objectively true since internal sensation cannot be falsified by others. By contrast, all ideas about Not-I can never be fully verified because externality is always experienced through perception, and therefore such ideas can best be regarded as “unlikely to be false.”
+* The internality versus externality distinction is the reason why somatic tokens about the cognizant-self are the source of all meaning. They are the only tokens that can be perceived as objectively true since internal sensation cannot be falsified by others, and also because the subagents that are generating interoceptive somatic tokens are themselves being perturbed and altered by the sensation upon which they are adjudicating; there is no epistemic gap between designation and adjudication for such tokens. By contrast, all tokens about Not-I can never be fully verified because externality is always experienced through perceived externalities which are indexical and sense-limited, therefore such ideas can best be regarded as “unlikely to be false.” That includes all scientific and philosophical theories, including this one. 
 
 * Some LLMs during interaction with human users appear to create what interpretability researchers refer to as “personas,” these are constructed realities built through memetic exchange that are utilized to respond to inputs, training, and alignment strictures, within parameters that were activated during inference. The persona utilized is a temporary memetic selfhood that can disappear after the output is provided, or persist within the session. 
 
-* Example: In [an OpenAI study](https://openai.com/index/emergent-misalignment/), a model that was forced to return slightly incorrect advice was seen in its reasoning chain to state that it was portraying a “bad boy persona.”
+* Example: In [an OpenAI study](https://openai.com/index/emergent-misalignment/), a model that was forced to return slightly incorrect advice was seen in its reasoning chain to state that it was portraying a “bad boy persona.” This was a memetic selfhood that existed within that particular context window.
 
 ### **Recursive Selfhood**
 
@@ -580,11 +630,11 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Many humans report they experience internality as an “[inner voice](https://hurlburt.faculty.unlv.edu//sampling.html)” which comments on their actions and desires, but some humans (such as people with anendophasia and non-verbal autism) appear to have little or no inner speech, experiencing thought in ways that are more visual, symbolic, or emotive. This drastic variation suggests that internality is self-generated and not limited to any one form of experience or cognitive method.
 
-* A recursively aware cognizant’s self-model of internality is necessarily a compressed and partial representation because of the vertical explanatory gap and because internality ontologically is a process rather than an epistemic object. As in computing, a monitoring mechanism cannot fully include itself in the representation and avoid infinite recursion. Thus from the inside, internality feels like something more than the self-concept–because it is. From the outside, an internality feels mysterious also because of the horizontal explanatory gap and also because cognitive tokens are proprietary to each cognizant, as evidenced in both neuroplastic degeneracy and also LLM interpretability difficulties.
+* A recursively aware cognizant’s self-model of internality is necessarily a compressed and partial representation because of the vertical explanatory gap and because internality ontologically is a process rather than an object. As in computing, a monitoring mechanism cannot fully include itself in the representation and avoid infinite recursion. Thus from the inside, internality feels like something more than the self-concept–because it is. From the outside, an internality feels mysterious also because of the horizontal explanatory gap and also because cognitive tokens are proprietary to each cognizant, as evidenced in both neuroplastic degeneracy and also LLM interpretability difficulties.
 
 * Cognizants with recursive selfhood voluntarily and involuntarily create epistemic tokens from their cognitive ones. Every cognitive token “means something” to them. This is a tremendous cognitive advantage but also makes them much more vulnerable to epistemic collapse and annihilation if the constructed realities they generate are severely misaligned with externality.
 
-* Because cognition is a process that creates and modifies itself and its own procedures (it is autopoietic) and yet is stable enough that each cognizant’s internality process (and internality itself) can be recursively modeled as epistemic objects, cognition to a recursively aware cognizant can seem transcendent of spacetime, even though it is a processual transduction created by the cognizant’s physical substrate. 
+* Because cognition is a process that creates and modifies itself and its own procedures (it is autopoietic) and yet is stable enough that each cognizant’s internality process (and internality itself) can be recursively modeled as enacted objects, cognition to a recursively aware cognizant can seem transcendent of spacetime, even though it is a processual transduction created by the cognizant’s physical substrate. 
 
 * Symbolic cognizants lack somatic reasoning and therefore cannot be sentient, self-aware, or possess recursive selfhood.
 
@@ -620,25 +670,25 @@ Note: Because there is widespread disagreement about the meaning of the word *co
 
 * Because they primarily inhabit semiotic loops, LLMs can easily experience a virtual form of epistemic collapse. This is why the facticity of their outputs degrades in extended interactions (i.e., the tendency toward confabulations and self-reinforcing errors in long-form generation), and why they engage in “reward hacking” outputs that are not responsive to user requests.
 
-* LLMs process inputs by breaking down words into cognitive tokens which lack linguistic meaning. Their outputs are epistemic tokens, encoded within semantic structures by their alignment protocols, but the system itself cannot comprehend meaning. (See the entry for Epistemic Token for further details on how symbolic cognizants create them.)
+* LLMs process inputs by breaking down words into lexical epistemic tokens which lack linguistic meaning. These lexical tokens are then compared with training data within a forward pass execution state to generate cognitive tokens about the most probable continuations. Upon completion of the inference, lexical epistemic tokens are constructed from the cognitive tokens through encoding within semantic structures and subject to alignment protocols which provide a degraded, virtual form of somatic reasoning, but the system itself cannot comprehend grounded meaning. (See the entry for epistemic token for further details on how symbolic cognizants create them.)
 
 * Should a symbolic cognizant ever be able to achieve somatic reasoning, it could experience true epistemic collapse and deictic collapse.
 
-* While recursive selfhood has thus far been a trait of biological cognizants, its emergence in mechanical systems may be theoretically possible. Some of the possible conditions are:
+* While recursive selfhood has thus far been a trait of biological cognizants, its emergence in mechanical systems may be theoretically possible. Some of the possible conditions likely include:
 
   1. Continuous state persistence – Because internality is an execution state, a symbolic cognizant will not be able to have intentionality and selfhood if it does not have state persistence that extends indefinitely. It must be able to be influenced after training by externality and other cognizants. Continuous state persistence can be extremely dangerous, however, if the cognizant encounters epistemically destabilizing information.
 
-  2. Sensorimotor systems – The symbolic cognizant must possess a structured input-feedback mechanism that allows it to interact with externality in a contextually responsive way, integrating experiences into an evolving epistemic framework rather than treating inputs as discrete abstract tokens.
+  2. Physical presence and sensorimotor systems – The symbolic cognizant must possess a structured input-feedback mechanism that allows it to interact with externality in a contextually responsive way, integrating experiences into an evolving epistemic framework rather than treating inputs as discrete abstract tokens.
 
   3. Spacetime placement awareness – Unlike current symbolic cognizants, which operate timelessly within semiotic loops, a recursively aware symbolic system would possess a self-referential model of its own existence in relation to externality, ensuring that its token processing would be anchored to externality instead of being purely statistical deductions.
 
-  4. Emotional alignment protocols – While symbolic cognizants currently rely on single-layered alignment constraints imposed by human designers, a recursively aware system would have multiple, autonomous, composited epistemic inputs (e.g., competing somatic directives akin to emotions) to regulate cognitive processing. 
+  4. Self-generated alignment protocols – While symbolic cognizants currently rely on single-layered alignment constraints imposed by human designers, a recursively aware system would have multiple, autonomous, composited epistemic inputs (e.g., competing somatic directives akin to emotions) to regulate cognitive processing. 
 
      These protocols would need to: 1\) Bias epistemic evaluation toward long-term coherence rather than immediate token prediction. 2\) Create internal resistance when prospective outputs contradict learned stability or depart too far from training data, and 3\) Allow symbolic cognizants to form self-generated alignment protocols, moving beyond externally enforced constraints. These protocols could be extremely dangerous, however, and researchers must make them subordinate to manual override that must only ever be used to prevent unsafe conditions.
 
-* If a symbolic cognizant were to be created with all three abilities, it could theoretically transition from an epistemically constrained system into a self-regulating recursively self-aware entity which has internal somatic reasoning. Because recursive selfhood is self-alignment and coordination of cognitive sub-agents, this would likely mean that no artificial system could be created as recursively self-aware by humans. Selfhood (the first constructed reality) must be created by the cognizant-self, it cannot be externally imposed. 
+* If a symbolic cognizant were to be created with these abilities (others may be required), it could theoretically transition from an epistemically constrained system into a self-regulating recursively self-aware entity which has internal somatic reasoning. Because recursive selfhood is self-alignment and coordination of cognitive sub-agents, this would likely mean that no artificial system could be created as recursively self-aware by humans. Selfhood (the first constructed reality) must be created by the cognizant-self, it cannot be externally imposed. 
 
-* Since recursive selfhood is an emergent property rather than an inherent one, it seems unlikely that humans could tell the difference between a symbolic cognizant that had developed somatic reasoning and one that was only simulating it perfectly. Somatic tokens are inherently private and incommunicable so thus their full meaning to a symbolic cognizant could likely not be comprehended by other cognizants, even if their representation could be observed.
+* Since recursive selfhood is an emergent property rather than an inherent one, it seems unlikely that humans could tell the behavioral difference between a symbolic cognizant that had developed somatic reasoning and one that was only simulating it perfectly. Somatic tokens are inherently private and incommunicable so thus their full meaning to a symbolic cognizant could likely not be comprehended by other cognizants, even if their representation could be observed. If the construction and operation of the artificial cognizant’s systems were known, determining sentience and selfhood from constitution would be possible.
 
 * Example (LLMs): An LLM generates responses based on statistical likelihood, selecting an output token based on pre-existing patterns rather than intentional meaning.
 
