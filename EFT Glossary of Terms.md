@@ -4,7 +4,7 @@ Matthew Sheffield
 
 ## **Abstract**
 
-This document is a working draft glossary of the Epistemic Flux Theory, a meta-theory of cognition and epistemology that aims to provide bridges between the disparate fields of cognitive science. EFT effects this integration by importing relevant concepts from semiotics, psychology, artificial intelligence, and philosophy of mind into an indexical process ontology that is substrate-neutral in terms of externally attributed function, but not in terms of constitution.
+This document is a working draft glossary of the Epistemic Flux Theory, a meta-theory of cognition and epistemology that aims to bridge disparate fields of cognitive science and artificial intelligence. EFT effects this integration by importing relevant concepts from semiotics, psychology, artificial intelligence, and philosophy of mind into an indexical process ontology that is substrate-neutral in terms of externally attributed function, but not in terms of constitution.
 
 Specifically, EFT fuses and adapts key components of Dual Process Theory, Embodied Enactivism, AI interpretability, Peircean semiotics, Basal Cognition into a post-Sellarsian process ontology that reconciles with phenomenal experience. Within the framework, information is modeled as tokens, enactments of meaning formed through somatic reasoning (intuitive, experience-based) and abstract reasoning (symbolic, conceptual). These tokens are procedural enactments that can be recursively evaluated and combined to generate and share increasingly complex concepts.
 
